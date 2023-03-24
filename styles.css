@@ -1,0 +1,18 @@
+#contenedorp{
+    width: 50%;
+    height: 50%;
+    border-radius: 20%;
+}
+#notes{
+    color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: black;
+    border-top: 10%;
+
+}
+#abajo{
+    background-color: antiquewhite;
+    margin-top:-30px;
+
+}
